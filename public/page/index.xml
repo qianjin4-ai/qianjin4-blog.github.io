@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 前进四AI探索</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on 前进四AI探索</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于</title>
+        <link>http://localhost:1313/page/about/</link>
+        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/about/</guid>
+        <description>&lt;h2 id=&#34;关于本博客&#34;&gt;关于本博客
+&lt;/h2&gt;&lt;p&gt;欢迎来到前进四AI探索博客！这是一个专注于AI技术探索和学习的技术博客。&lt;/p&gt;
+&lt;h3 id=&#34;我们的使命&#34;&gt;我们的使命
+&lt;/h3&gt;&lt;p&gt;致力于分享AI领域的前沿技术、实践经验和学习心得，帮助更多对AI感兴趣的朋友了解和掌握AI技术。&lt;/p&gt;
+&lt;h3 id=&#34;主要内容&#34;&gt;主要内容
+&lt;/h3&gt;&lt;p&gt;本博客主要关注以下方向：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;AI技术前沿动态追踪&lt;/li&gt;
+&lt;li&gt;机器学习和深度学习实践经验&lt;/li&gt;
+&lt;li&gt;AI开发工具和框架使用指南&lt;/li&gt;
+&lt;li&gt;AI项目实战案例分析&lt;/li&gt;
+&lt;li&gt;AI学习资源和方法分享&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;关于作者&#34;&gt;关于作者
+&lt;/h3&gt;&lt;p&gt;我是一名AI技术爱好者和实践者，热衷于探索AI技术的无限可能。通过这个博客平台，希望能与大家分享学习心得，共同进步。&lt;/p&gt;
+&lt;h3 id=&#34;联系方式&#34;&gt;联系方式
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com/qianjin4-ai&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;qianjin4-ai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/qianjin4_ai&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@qianjin4_ai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: &lt;a class=&#34;link&#34; href=&#34;mailto:qianjin4.ai@gmail.com&#34; &gt;qianjin4.ai@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;交流与合作&#34;&gt;交流与合作
+&lt;/h3&gt;&lt;p&gt;如果你也对AI技术感兴趣，欢迎通过以上方式与我联系，期待与你交流！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>http://localhost:1313/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

@@ -60,3 +60,19 @@ noClasses = false
 lineNos = true
 codeFences = true
 guessSyntax = true
+
+# 菜单配置
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "首页"
+url = "/"
+weight = -100
+pre = "home"
+
+[[menu.main]]
+identifier = "posts"
+name = "文章"
+url = "/posts"
+weight = -90
+pre = "archives"
