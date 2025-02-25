@@ -1,4 +1,4 @@
-baseURL = "https://qianjin4-blog.github.io/"
+baseURL = "https://qianjin4-ai.github.io/qianjin4-blog.github.io/"
 languageCode = "zh-cn"
 title = "前进四AI探索"
 theme = "stack"
