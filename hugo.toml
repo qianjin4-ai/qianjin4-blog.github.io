@@ -1,4 +1,4 @@
-baseURL = "https://qianjin4-ai.github.io/qianjin4-blog.github.io/"
+baseURL = "https://qianjin4-blog.github.io/"
 languageCode = "zh-cn"
 title = "前进四AI探索"
 theme = "stack"
@@ -27,8 +27,32 @@ customText = ""
 [params.sidebar]
 emoji = "🚀"
 subtitle = "探索AI技术的前沿，分享学习心得"
-avatar = ""
 memorial = ""
+
+[build]
+writeStats = false  # 禁用资源映射文件
+noHTTPCache = true  # 可选：关闭HTTP缓存头
+
+[imaging]
+  disablePathHash = true  # 禁用路径哈希
+  anchor = "smart"  # 智能锚点
+  quality = 75  # 图片质量
+  resampleFilter = "lanczos"  # 重采样过滤器
+  disableProcessing = true  # 完全禁用图片处理
+
+[params.sidebar.avatar]
+enabled = true
+local = true
+src = "img/avatar.png"
+
+[params.assets]
+disableFingerprinting = true  # 禁用资源指纹
+
+[resources]
+ignoreErrors = true  # 忽略资源处理错误
+
+[server]
+noHTTPCache = true  # 禁用服务器端HTTP缓存
 
 # 社交链接
 [params.social]
@@ -68,11 +92,14 @@ identifier = "home"
 name = "首页"
 url = "/"
 weight = -100
-pre = "home"
+[menu.main.params]
+icon = "home"
 
 [[menu.main]]
 identifier = "posts"
 name = "文章"
 url = "/posts"
 weight = -90
-pre = "archives"
+[menu.main.params]
+icon = "archives"
+
