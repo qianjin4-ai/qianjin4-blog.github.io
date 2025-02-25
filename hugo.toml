@@ -32,4 +32,31 @@ memorial = ""
 
 # 社交链接
 [params.social]
-github = ""
+github = "qianjin4-ai"
+twitter = "qianjin4_ai"
+email = "qianjin4.ai@gmail.com"
+
+# 文章配置
+[params.article]
+math = true
+toc = true
+readingTime = true
+
+# 评论系统
+[params.comments]
+enabled = true
+provider = "disqus"
+
+[params.comments.disqusjs]
+shortname = "qianjin4-blog"
+apiUrl = "https://disqus.com/api/"
+apiKey = "your-disqus-api-key"
+admin = "qianjin4-ai"
+adminLabel = "管理员"
+
+# 代码高亮
+[markup.highlight]
+noClasses = false
+lineNos = true
+codeFences = true
+guessSyntax = true

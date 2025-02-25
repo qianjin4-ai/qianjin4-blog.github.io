@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>前进四AI探索</title>
-        <link>http://localhost:1313/</link>
-        <description>Recent content on 前进四AI探索</description>
+        <title>工具 on 前进四AI探索</title>
+        <link>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</link>
+        <description>Recent content in 工具 on 前进四AI探索</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>常用AI工具推荐与使用技巧</title>
         <link>http://localhost:1313/posts/ai-tools/</link>
         <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
@@ -70,27 +70,6 @@
 &lt;h2 id=&#34;总结&#34;&gt;总结
 &lt;/h2&gt;&lt;p&gt;AI工具能够显著提升我们的工作效率，但关键是要学会正确使用。希望本文的介绍和建议能帮助你更好地利用这些工具，在工作中发挥更大的价值。&lt;/p&gt;
 &lt;p&gt;欢迎在评论区分享你使用AI工具的经验和心得！&amp;quot;}}}}&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>欢迎来到前进四AI探索</title>
-        <link>http://localhost:1313/posts/welcome/</link>
-        <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/posts/welcome/</guid>
-        <description>&lt;h2 id=&#34;欢迎&#34;&gt;欢迎
-&lt;/h2&gt;&lt;p&gt;欢迎来到前进四AI探索博客！这里是我分享AI技术学习心得和探索经验的地方。&lt;/p&gt;
-&lt;h2 id=&#34;博客内容&#34;&gt;博客内容
-&lt;/h2&gt;&lt;p&gt;本博客将主要关注以下几个方面：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;AI技术前沿动态&lt;/li&gt;
-&lt;li&gt;机器学习和深度学习实践&lt;/li&gt;
-&lt;li&gt;AI开发工具和框架使用经验&lt;/li&gt;
-&lt;li&gt;AI项目实战案例分析&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;期待交流&#34;&gt;期待交流
-&lt;/h2&gt;&lt;p&gt;希望能通过这个博客平台，与大家一起学习、交流、成长。如果你也对AI技术感兴趣，欢迎订阅本博客，一起探讨技术的无限可能！&lt;/p&gt;
-&lt;p&gt;让我们开始这段AI探索之旅吧！&lt;/p&gt;
 </description>
         </item>
         
