@@ -1,0 +1,35 @@
+baseURL = "https://qianjin4-blog.github.io/"
+languageCode = "zh-cn"
+title = "前进四AI探索"
+theme = "stack"
+
+# 启用搜索功能
+[params.sidebar.search]
+enable = true
+
+# 主题配置
+[params]
+faviconSVG = ""
+faviconSafariPinnedTab = ""
+featuredImageField = "image"
+rssFullContent = true
+
+# 默认图片
+[params.defaultImage]
+opengraph = false
+
+# 页脚配置
+[params.footer]
+since = 2024
+customText = ""
+
+# 主页配置
+[params.sidebar]
+emoji = "🚀"
+subtitle = "探索AI技术的前沿，分享学习心得"
+avatar = ""
+memorial = ""
+
+# 社交链接
+[params.social]
+github = ""
